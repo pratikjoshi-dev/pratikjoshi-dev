@@ -1,18 +1,77 @@
 # 💫 About Me:
-💼 I’m currently working on<br>Building iOS apps using Swift and SwiftUI. Mostly focusing on clean architecture, smooth performance, and real-time features (especially fintech and trading apps).<br><br>🤝 I’m looking to collaborate on<br>Good iOS projects where I can work on real products, improve UI/UX, and handle real-time data.<br><br>🆘 I’m looking for help with<br>Scaling apps for high traffic, and going deeper into system design and performance tuning.<br><br>🌱 I’m currently learning<br>Advanced Swift (async/await), better architecture patterns, and how to build apps that scale well.<br><br>💬 Ask me about<br>iOS development, Swift, SwiftUI, MVVM, clean architecture, API integration, debugging, and App Store release.<br><br>⚡ Fun fact<br>I enjoy mixing trading concepts with mobile apps and building things that actually solve real problems.<br>
+💼 Senior iOS Developer | 7+ Years Experience | 40+ Apps Shipped  
+🚀 Actively looking for iOS opportunities | Immediate Joiner  
 
+I specialize in building high-performance iOS applications using Swift, SwiftUI, and UIKit.  
+Strong focus on clean architecture, scalable code, and real-time features — especially in fintech and trading apps.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratik.joshi74@gmail.com) 
+🤝 I’m open to  
+iOS roles where I can contribute to real products, architecture decisions, and performance optimization.
 
-# 💻 Tech Stack:
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=pratikjoshi-dev&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=pratikjoshi-dev&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=pratikjoshi-dev&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🌱 Currently focusing on  
+Advanced Swift (async/await), system design, and scalable mobile architecture.
+
+💬 Ask me about  
+iOS Development, Swift, SwiftUI, UIKit, MVVM, Clean Architecture, API integration, debugging, CI/CD, and App Store releases.
+
+⚡ Side Project  
+Building **Trader Scalper X** — trading + mobile apps + real-time systems.
 
 ---
-[![](https://komarev.com/ghpvc/?username=pratikjoshi-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-joshi-ios)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratik.joshi74@gmail.com)
+
+---
+
+# 📱 iOS Tech Stack:
+
+### 🚀 Core
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+### 🏗 Architecture
+![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-4CAF50?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
+
+### 🔗 Networking & Data
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### 💾 Persistence
+![Core Data](https://img.shields.io/badge/Core%20Data-000000?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
+
+### ⚙️ Tools & CI/CD
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 🎨 UI/UX
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+
+---
+
+# 📌 Featured Projects (Must Add)
+- SwiftUI MVVM Demo App  
+- Clean Architecture Sample  
+- Trading / Finance UI App  
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=pratikjoshi-dev&theme=codeSTACKr&hide_border=false)
+![](https://streak-stats.demolab.com/?user=pratikjoshi-dev&theme=codeSTACKr&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pratikjoshi-dev&theme=codeSTACKr&layout=compact)
+
+---
+
+![](https://komarev.com/ghpvc/?username=pratikjoshi-dev&color=blue)
